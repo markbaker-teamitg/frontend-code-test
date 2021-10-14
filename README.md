@@ -29,10 +29,10 @@ We have a high focus on attention to details in code
 
 We have a high focus on attention to details in design
 
-*We expect the designs to match as closely as possible, ready for a designer to review
-*Correct semantic HTML mark-up and/or CSS should be used to achieve the size and aspect ratio of the images in the design
-*Interactions and animations to be considered but not distracting users away from the experience
-*Minimal visual bugs when going resizing to mobile and large screen sizes
+* We expect the designs to match as closely as possible, ready for a designer to review
+* Correct semantic HTML mark-up and/or CSS should be used to achieve the size and aspect ratio of the images in the design
+* Interactions and animations to be considered but not distracting users away from the experience
+* Minimal visual bugs when going resizing to mobile and large screen sizes
 
 #### Nice to have
 If you have achieved primary tasks and would like to showcase your skills by implementing additional feature(s) then you can consider the following:
