@@ -1,4 +1,5 @@
-Frontend Technical Test ITG [www.teamitg.com](http://www.teamitg.com/)
+Frontend Technical Test
+
 
 ### Task Instructions
 
@@ -8,11 +9,11 @@ Please use your choice of IDE and development tools and feel free to use your us
 
 Before your interview feel free to create your Angular app and bring in the assets that we have provided so that you have a basic shell of an application to start the exercise from. Also feel free to install any npm packages that you typically use in your projects.
 
-Designs have been provided in the /designs folder for a simple view that displays images of cars along with some basic sales information relevant to each vehicle displayed. Designs have been provided for how the view should look when viewed in a desktop, mobile and tablet browser. It is not necessary to demonstrate this working on a mobile or tablet device, but you need to be able to demonstrate how the view would adapt for each device type.
+Designs have been provided in the /designs folder for a simple view that displays images of cars along with some basic sales information relevant to each vehicle displayed. Designs have been provided for desktop, mobile and tablet browsers. It is not necessary to demonstrate this working on a mobile or tablet device, but you need to be able to demonstrate how the view would adapt for each device type / resolution.
 
 Using the APIs detailed below, traverse the API data to dynamically build the views according to the design.
 
-Images for each vehicle returned in the API data can be found in the /images folder.
+Images for each vehicle returned in the API response can be found in the /images folder.
 
 #### Acceptance Criteria
 We have a high focus on attention to details in code
@@ -44,7 +45,7 @@ If you have achieved primary tasks and would like to showcase your skills by imp
 
 #### API URLs
 * [https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicles/](https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicles/)
-  Returns a list of vechicles
+  Returns a list of vehicles
 
 * [https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicle/{id}](https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicle/xe)
   Returns detail for one vehicle. The vehicle id (provided in the above API call) should be passed as a parameter
