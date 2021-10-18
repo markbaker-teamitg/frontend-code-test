@@ -47,6 +47,6 @@ If you have achieved primary tasks and would like to showcase your skills by imp
 * [https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicles/](https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicles/)
   Returns a list of vehicles
 
-* [https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicle/{id}](https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicle/xe)
+* [https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicles/{id}](https://frontend-code-test-api-jhbwml7vva-nw.a.run.app/api/vehicle/xe)
   Returns detail for one vehicle. The vehicle id (provided in the above API call) should be passed as a parameter
 
