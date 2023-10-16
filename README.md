@@ -3,7 +3,7 @@
 
 ### Task Instructions
 
-During your technical test interview we require you to create a simple Angular application using current frontend development best practices. During the 90 minute Teams interview we'd like you to share your screen so that we can see how you approach this task. At pertinent points we will ask you questions to test your knowledge on topics such as Angular, JavaScript, TypeScript, coding principles, coding patterns, code quality.
+During your technical test interview we require you to create a simple Angular application using current frontend development best practices. During the 90 minute Teams interview we'd like you to share your screen so that we can see how you approach this task. At pertinent points we will ask you questions to test your knowledge on topics such as Angular, JavaScript, TypeScript, coding principles, coding patterns, code quality. Although the app has simple functionality, we'd like you to design the code in a scalable and maintainable manner as if you were setting out creating the structure for an enterprise level application with a larger scope and with multiple developers contributing.
 
 Please use your choice of IDE and development tools and feel free to use your usual online sources by way of reference e.g. to check syntax. If you do not complete the test then do not panic. The aim of this interview is to assess your competency level.
 
