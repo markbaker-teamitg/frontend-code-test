@@ -3,7 +3,9 @@
 
 ### Task Instructions
 
-During your technical test interview we require you to create a simple Angular application using current frontend development best practices. During the 90 minute Teams interview we'd like you to share your screen so that we can see how you approach this task. At pertinent points we will ask you questions to test your knowledge on topics such as Angular, JavaScript, TypeScript, coding principles, coding patterns, code quality. Although the app has simple functionality, we'd like you to design the code in a scalable and maintainable manner as if you were setting out creating the structure for an enterprise level application with a larger scope and with multiple developers contributing.
+During your technical test interview we require you to create an Angular application using current frontend development best practices. During the 90 minute Teams interview we'd like you to share your screen so that we can see how you approach this task. At pertinent points we will ask you questions to test your knowledge on topics such as Angular, JavaScript, TypeScript, coding principles, coding patterns, code quality. 
+
+Although the app has simple functionality, we'd like you to design the code solution in a scalable and maintainable manner as if you were setting out creating the structure for an enterprise level application with a larger scope and with multiple developers contributing.
 
 Please use your choice of IDE and development tools and feel free to use your usual online sources by way of reference e.g. to check syntax. If you do not complete the test then do not panic. The aim of this interview is to assess your competency level.
 
@@ -19,8 +21,12 @@ Images for each vehicle returned in the API response can be found in the /images
 We have a high focus on attention to details in code
 
 * The formatting of the codebase should be consistent and written in a modular approach
+* The solution should be structured appropriately for enterprise scale development
+* We expect the data from the two API calls to be retrieved and merged efficiently using appropriate RxJS operators
 * We expect the codebase to be written using ES6+ and libraries kept to a minimum
-* We expect the code to be written with unit testing & performance in mind
+* We expect the code to be written with performance in mind
+* We expect you to create an appropriate level of automated test coverage
+* We expect to see a best practice approach to error handling
 * We prefer native Browser Api over JS libraries
 * Mobile-first development approach using min-width media queries
 * Solution should be accessible and meet WCAG 2.1
