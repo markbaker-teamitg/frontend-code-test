@@ -30,7 +30,7 @@ We have a high focus on attention to details in code
 * We prefer native Browser Api over JS libraries
 * Mobile-first development approach using min-width media queries
 * Solution should be accessible and meet WCAG 2.1
-* No CSS framework allowed
+* No CSS framework allowed e.g. bootstrap, but pre-processors are fine. We typically use SCSS.
 * Internally, we use BEM - but we are open to other CSS naming conventions as long as it's built with scale and maintenance in mind
 
 We have a high focus on attention to details in design
